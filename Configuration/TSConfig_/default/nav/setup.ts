@@ -1,1 +1,0 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mybox/Configuration/TSConfig/default/nav/main_menu/setup.ts">
