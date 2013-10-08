@@ -1,0 +1,59 @@
+body {
+	background-color:#414141;
+	background:url(../img/norwegian_rose_@2X.png);
+	font-family: Georgia;
+	}
+#top_header {
+	background:url(../img/norwegian_rose_@2X.png);
+	}
+#menu_top {
+	background: none repeat scroll 0 0 #000000;
+	}
+.navbar .nav > li > a {
+	padding: 11px 15px;
+	color: #FFFFFF;
+	}
+.row #right_column, .row .span3 .row .span3 ,.span6{
+	background: #fff;
+	border-radius: 4px 4px 4px 4px;
+	}
+.row .span3 h3,.span6 h3{
+	background: #000;
+	color: #FFF;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 4px 4px 0px 0px;
+	margin-top: 0px;
+	}
+.navbar-inner {
+}
+.page-header {
+	border-bottom: 0 solid #EEEEEE;
+	margin: 4px 0 20px;
+	padding-bottom: 0;
+	color:#FFF;
+}
+.account_img {
+	float: left;
+	margin-top: -10px;
+	width: 100px;
+	}
+.account_mg {
+	padding-left: 12px;
+	float: left;
+	width: 158px;
+	}
+.account_name {
+	background: #0088CC;
+	margin-top: -10px;
+	padding: 2px 0px 3px 20px;;
+	color: #FFF;
+	}
+.caption_ol {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.specialPhoto {
+	float: left;
+	width: 80px;
+}
