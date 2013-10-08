@@ -1,0 +1,62 @@
+body {
+	background-color:#000;
+	color:#09F;
+	background:url(../img/retro_intro/retro_intro/retro_intro.png);
+	font-family: Georgia;
+	}
+#mainPage {
+	margin-top: 100px;
+	background-color:#fff;
+	padding-bottom: 10px;
+	border-radius: 8px 8px 8px 8px;
+	}
+small i {
+		font-size:11px;
+	}
+
+#menu_top {
+	background: none repeat scroll 0 0 #09F;
+	}
+.navbar .nav > li > a {
+	padding: 11px 15px;
+	color: #FFFFFF;
+	}
+.row-fluid #right_column, .row-fluid .span3 ,.span9{
+	background: #fff;
+	border-radius: 8px 8px 8px 8px;
+	}
+.row-fluid .span3 h3,.span9 h3{
+	background: #09F;
+	color: #FFF;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 8px 8px 8px 8px;
+	margin-top: 0px;
+	}
+.navbar-inner {
+}
+.page-header {
+	border-bottom: 0 solid #EEEEEE;
+	margin: 4px 0 20px;
+	padding-bottom: 0;
+	color:#FFF;
+}
+
+.caption_ol {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.specialPhoto {
+	float: left;
+	width: 80px;
+}
+.the-icons {
+    list-style: none outside none;
+}
+ul.the-icons li{
+    display:inline;
+}
+.navbar-inner {
+	border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
